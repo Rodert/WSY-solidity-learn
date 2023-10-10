@@ -19,6 +19,7 @@
 
 pragma solidity ^0.4.18;
 
+// 合约地址 https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code
 contract WETH9 {
     string public name     = "Wrapped Ether"; // 名称
     string public symbol   = "WETH"; // 简称
