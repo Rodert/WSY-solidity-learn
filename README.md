@@ -21,3 +21,9 @@ WSY will teach you solidity
 
 
 
+
+
+## [点击观看YouTube视频教程](https://www.youtube.com/playlist?list=PL4hdLz5z_dAAIu-gZ80WbNcADzY7880X_)
+
+## [点击观看BiliBili视频教程](https://www.bilibili.com/video/BV1sw411p7YS/)
+
