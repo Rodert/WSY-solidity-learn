@@ -2,7 +2,7 @@
  * @Author: JavaPub
  * @Date: 2023-11-19 12:02:05
  * @LastEditors: your name
- * @LastEditTime: 2023-11-19 12:22:18
+ * @LastEditTime: 2023-11-20 19:30:32
  * @Description: Here is the JavaPub code base. Search JavaPub on the whole web.
  * @FilePath: \WSY-solidity-learn\README.md
 -->
@@ -21,9 +21,9 @@ WSY will teach you solidity
 
 
 
+# 视频教程
 
+#### [点击观看YouTube视频教程](https://www.youtube.com/playlist?list=PL4hdLz5z_dAAIu-gZ80WbNcADzY7880X_)
 
-## [点击观看YouTube视频教程](https://www.youtube.com/playlist?list=PL4hdLz5z_dAAIu-gZ80WbNcADzY7880X_)
-
-## [点击观看BiliBili视频教程](https://www.bilibili.com/video/BV1sw411p7YS/)
+#### [点击观看BiliBili视频教程](https://www.bilibili.com/video/BV1sw411p7YS/)
 
