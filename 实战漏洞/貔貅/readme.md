@@ -5,3 +5,4 @@
 貔貅ERC20代币，只能买，不能卖。又叫貔貅。
 
 
+https://xie.infoq.cn/article/22939837ad1b0f42c788f3c31
