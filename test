@@ -1,0 +1,14 @@
+select tx.*,ar.risky_level,ar.risky_type,risky_keys from (
+(SELECT transaction_hash,contract_address,value,CASE 
+WHEN from_address = '0xdac17f958d2ee523a2206206994597c13d831ec7' THEN
+to_address
+ELSE
+from_address
+END as analogue 
+from sel_eth_txn_info
+WHERE 
+from_address = '0xdac17f958d2ee523a2206206994597c13d831ec7' and block_time > 1699920000000 
+or to_address = '0xdac17f958d2ee523a2206206994597c13d831ec7' and block_time > 1699920000000
+order by block_time desc) as tx
+JOIN addr_risk as ar 
+on tx.analogue = ar.address) where ar.risky_type = 3
