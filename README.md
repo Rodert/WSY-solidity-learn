@@ -2,7 +2,7 @@
  * @Author: JavaPub
  * @Date: 2023-11-19 12:02:05
  * @LastEditors: your name
- * @LastEditTime: 2023-11-20 19:30:32
+ * @LastEditTime: 2023-11-25 21:18:32
  * @Description: Here is the JavaPub code base. Search JavaPub on the whole web.
  * @FilePath: \WSY-solidity-learn\README.md
 -->
@@ -19,6 +19,7 @@ WSY will teach you solidity
 
 - web3 从业者
 
+- 区块链爱好者
 
 
 # 视频教程
@@ -26,4 +27,9 @@ WSY will teach you solidity
 #### [点击观看YouTube视频教程](https://www.youtube.com/playlist?list=PL4hdLz5z_dAAIu-gZ80WbNcADzY7880X_)
 
 #### [点击观看BiliBili视频教程](https://www.bilibili.com/video/BV1sw411p7YS/)
+
+
+## 一些看法
+
+无论我们在哪个领域，我们认为优先要解决的问题是要让自己尽量去掌握一些通用的、无需依赖于特定环境或工具的工作方法或技能。
 
