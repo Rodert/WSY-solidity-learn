@@ -2,7 +2,7 @@
  * @Author: JavaPub
  * @Date: 2023-11-19 12:02:05
  * @LastEditors: your name
- * @LastEditTime: 2023-11-26 10:42:18
+ * @LastEditTime: 2023-11-26 22:21:20
  * @Description: Here is the JavaPub code base. Search JavaPub on the whole web.
  * @FilePath: \WSY-solidity-learn\README.md
 -->
@@ -51,4 +51,14 @@ If you have an EVM system, please contact us directly, and we will be able to as
 ## Remind
 
 Any code must be professionally reviewed.
+
+## 申明
+
+- 课程中一些内容案例来源于网络和一些教程，如有侵权请联系删除
+
+- 这套课程及视频教程仅用于学习交流，不构成任何投资建议
+
+- 到目前为止，web3 行业依然有许多从业者不了解区块链，都是靠着网络上片面的信息来学习和决策，这是风险极高的
+
+- 为了帮助更多区块链爱好者，我们不收费，但希望你能关注我的频道，并分享给身边的朋友
 
